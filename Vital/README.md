@@ -1,6 +1,6 @@
 # UHH CL51 data repository
 
-Data from the two Ceilometers (Vaisala CL51) of Universit‰t Hamburg.
+Data from the two Ceilometers (Vaisala CL51) of Universit√§t Hamburg.
 
 Two sets of test files contain sample data from Wettermast and Geomatikum for three days (29 Apr 2024 to 31 Apr 2024).
 
